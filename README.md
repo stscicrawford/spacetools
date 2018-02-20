@@ -1,2 +1,3 @@
 # spacetools
-Collection of useful scripts and tests
+This is a collection  of useful scripts and tests. 
+
